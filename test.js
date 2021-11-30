@@ -1,2 +1,2 @@
-let sten = [1];
+let sten = [10];
 console.log(sten)
